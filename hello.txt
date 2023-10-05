@@ -12,7 +12,6 @@ hello Git! hello atguigu!
 hello Git! hello atguigu!
 hello Git! hello atguigu!
 hello Git! hello atguigu!
-hello Git! hello atguigu!
-hello Git! hello atguigu!
 xiao qian qian tai C le
-xiao qian qian que shi C
+xiao qian q  ian que shi C
+xiao qian qian C bao le
